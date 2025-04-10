@@ -1,3 +1,4 @@
-# Htis is Hello World script 
+# This is Hello World script 
 
-prin("Hello World")
+print("Hello World")
+
